@@ -1,0 +1,20 @@
+
+header {
+    background-color: #ebebeb;
+    padding: 30px;
+    text-align: center;
+    font-size: 19px;
+    color: #777;
+    margin: 1%
+  }
+  
+  nav {
+    float: center;
+    padding: 30px;
+    background-color: #ebebeb;
+    text-align: center;
+    color: #777;
+    font-size:19px;
+    text-align: center;
+    margin: 1%
+  }
